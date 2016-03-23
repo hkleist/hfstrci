@@ -1947,16 +1947,16 @@
 	position: absolute;
 	right: 0;
 	height: 100%;
-	width: 50px;
+	width: 20px;
 	background: #FFF;
 	border: 1px solid #e5e5e5;
-	-webkit-border-radius: 0 4px 4px 0;
+	-webkit-border-radius: 0 2px 2px 0;
 	-moz-border-radius: 0 4px 4px 0;
 	-o-border-radius: 0 4px 4px 0;
 	-ms-border-radius: 0 4px 4px 0;
 	border-radius: 0 4px 4px 0;
 	pointer-events: none;
-	z-index: 10;
+	z-index: 5;
 }
 
 .gsearch .gsearch-wrap .gsearch-content .gsearch-field .form-group .label-select:after {
@@ -1965,7 +1965,7 @@
 	line-height: 1;
 	position: absolute;
 	top: 16px;
-	right: 20px;
+	right: 5px;
 	pointer-events: none;
 	z-index: 11;
 }
